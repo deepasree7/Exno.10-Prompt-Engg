@@ -1,6 +1,8 @@
 # Exno.10-Prompt-Engg
 # Date : 21/5/25
 # Register no:212222060036
+# Aim: To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Algorithm: To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure
 1. Query Decomposition
 Break a complex request into smaller, manageable sub-questions or prompts.
 
@@ -78,3 +80,4 @@ Ask the model to critique or revise its own output.
 Example:
 
 Prompt: “Here is a draft of an article. Suggest three improvements and rewrite the introduction to be more engaging.”
+# Result : The corresponding prompt executed successfully.
